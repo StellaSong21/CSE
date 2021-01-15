@@ -1,0 +1,12 @@
+.trace_signatures.txt
+farm
+pipeline-test
+simple-test1
+simple-test2
+simple-test3
+simple-test4
+simple-test5
+subprocess-test
+trace
+trace-error-constants-test
+trace-system-calls-test
